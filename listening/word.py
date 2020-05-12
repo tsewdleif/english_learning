@@ -4,4 +4,5 @@
 # @Author : West Field
 # @File : word.py
 
-
+def get_words():
+    pass
